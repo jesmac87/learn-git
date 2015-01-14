@@ -19,7 +19,7 @@ learn-git!
 * ```git diff``` this will show me the actual code that has been changed. Again, I want to make sure I don't push anything to github that shouldn't be there
 * If everything looks good ```git add nameOfMyFile.js``` I add my file(s) to the 'staging area'
 * ```git commit -m "The sentence I want associated with this commit message``` which tells my computer 'hey, next time code is pushed to github, take all of this code with it.
-* ```git push origin master``` and MAGIC. My code is now on github.
+* ```git push origin master``` and AUTOMAGICALLY. My code is now on github.
 
 ### Step 3: Push your code to github
 * Follow the steps I did above in order to get your new code on your computer up to your github repository.
